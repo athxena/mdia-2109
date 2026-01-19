@@ -7,4 +7,5 @@ Welcome to my repo for Media 2109 !!! Yayyyy !!
 - [x] Week 2
 - [x] Week 3
 - [ ] Week 4
-- [ ] Week 5
+
+##Have a good semester !!
