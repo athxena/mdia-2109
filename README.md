@@ -3,24 +3,19 @@
 ## **Meet Our Team !!**
 
 ### _Carson_
-
-![Carson](images/kubo.png)
+<img src="images/kubo.png" alt="Carson" width="200px" height="200px">
 
 ### **Tracy**
-
-![Tracy](images/monkey.png)
+<img src="images/monkey.png" alt="Tracy" width="200px" height="200px">
 
 ### **Nikka**
-
-![Nikka](images/puppy.png)
+<img src="images/puppy.png" alt="Nikka" width="200px" height="200px">
 
 ### **Runn**
-
-![Runn](images/yellowblob.png)
+<img src="images/yellowblob.png" alt="Runn" width="200px" height="200px">
 
 ### **Phil**
-
-![Phil](images/johncena.png)
+<img src="images/johncena.png" alt="Phil" width="200px" height="200px">
 
 ---
 
