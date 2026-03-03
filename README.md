@@ -4,23 +4,23 @@
 
 ### _Carson_
 
-![Carson](kubo.png)
+![Carson](images/kubo.png)
 
 ### **Tracy**
 
-![Tracy](monkey.png)
+![Tracy](images/monkey.png)
 
 ### **Nikka**
 
-![Nikka](puppy.png)
+![Nikka](images/puppy.png)
 
 ### **Runn**
 
-![Runn](yellowblob.png)
+![Runn](images/yellowblob.png)
 
 ### **Phil**
 
-![Phil](johncena.png)
+![Phil](images/johncena.png)
 
 ---
 
