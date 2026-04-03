@@ -30,6 +30,7 @@
 - **Research and Analysis:** Studying other life-simulation and fishing games to understand progression, pacing, and reward systems.  
 - **Documentation:** Writing clear design documents that explain mechanics, upgrade tiers, and gameplay flow for future development.  
 - **Critical Thinking and Problem Solving:** Figuring out how to make each gameplay element connect to the story and feel satisfying for players.
+- **Coding:** Using the skills I have learned in class, I hope to work on the main HTML components of our style guide website, as well as our main game website and make something I am happy with. 
 
 ## **My Focus**
 
